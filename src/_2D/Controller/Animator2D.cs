@@ -11,7 +11,7 @@ using System;
 using UnityEngine;
 using UnityStandardAssets._2D;
 
-namespace DGX.Controller._2D
+namespace DGX._2D.Controller
 {
 	[RequireComponent (typeof (Player2D))]
 	public class Animator2D : MonoBehaviour

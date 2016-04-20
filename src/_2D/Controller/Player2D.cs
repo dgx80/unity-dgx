@@ -10,7 +10,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace DGX.Controller._2D
+namespace DGX._2D.Controller
 {
 	[RequireComponent (typeof (Controller2D))]
 	public class Player2D : MonoBehaviour

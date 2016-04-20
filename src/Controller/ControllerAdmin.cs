@@ -5,7 +5,7 @@ namespace DGX.Controller
 {
     public class ControllerAdmin : UnityEngine.MonoBehaviour {
 
-        public Camera.CameraSet CameraKit;
+		public DgxCamera.CameraSet CameraKit;
         protected Machine.CarScript currentActor = null;
         
         // Use this for initialization

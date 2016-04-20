@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using DGX.Machine;
 
-namespace DGX.Camera
+namespace DGX.DgxCamera
 {
     public class CameraSet : UnityEngine.MonoBehaviour
     {

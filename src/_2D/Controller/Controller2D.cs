@@ -10,7 +10,7 @@
 using System;
 using UnityEngine;
 
-namespace DGX.Controller._2D
+namespace DGX._2D.Controller
 {
 	[RequireComponent (typeof (BoxCollider2D))]
 	public class Controller2D : MonoBehaviour
